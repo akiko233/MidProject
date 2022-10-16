@@ -1,0 +1,24 @@
+/* Second Page Background Color */
+.sec2 {
+    background: linear-gradient(to right top, #9198e5, #e66465);
+    min-height: 100vh;
+    background-size: 100%;
+}
+
+/* Picture Show */
+.sec2 .slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec2 .slide img {
+    height: 80%;
+    border-radius: 25px;
+    box-shadow: 0 1px 40px -10px #000;
+}
+
+/* Circle Middle */
+.fp-bottom ul {
+    width: 100%;
+    text-align: center;
+}
